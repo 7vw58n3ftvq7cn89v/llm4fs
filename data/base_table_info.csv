@@ -1,0 +1,4 @@
+base_table_name,target_attribute,description
+aqe-nta,PM_tertiles,"We combine data from our air quality monitoring network, NYCCAS, with other data to understand what makes one neighborhood's air quality different from another's. We found that building emissions, building density, industrial areas, and traffic density are associated with differences in air quality.",
+schools,2009-2010 OVERALL GRADE,"Progress Reports grade each school with an A, B, C, D, or F.  These reports focus on a school's learning environment, student performance, and student progress.  They were designed to help parents, teachers, principals, and others understand how well schools are doing—and compare them to other, similar schools.",
+Poverty,POVALL_2016,This dataset contains poverty levels for all US states in 2016.
